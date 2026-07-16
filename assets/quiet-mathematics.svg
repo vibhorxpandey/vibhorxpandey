@@ -1,0 +1,11 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Reality has a grammar — entropy, equilibrium, signal, noise. Most of us never learn to read it. From The Quiet Mathematics of Life, a book in progress.">
+  <rect x="0.5" y="0.5" width="899" height="199" rx="10" fill="#0d1117" stroke="#21262d"/>
+  <text x="58" y="104" font-family="Georgia, 'Times New Roman', serif" font-size="90" fill="#e3b341" opacity="0.20">&#8220;</text>
+  <text x="842" y="186" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="90" fill="#e3b341" opacity="0.20">&#8221;</text>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="1.4s" begin="0.2s" fill="freeze"/>
+    <text x="450" y="84" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="22" fill="#c9d1d9">Reality has a grammar &#8212; entropy, equilibrium, signal, noise.</text>
+    <text x="450" y="118" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="22" fill="#c9d1d9">Most of us never learn to read it.</text>
+    <text x="450" y="160" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" letter-spacing="3" fill="#8b949e">THE QUIET MATHEMATICS OF LIFE &#183; A BOOK IN PROGRESS</text>
+  </g>
+</svg>

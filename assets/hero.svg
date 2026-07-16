@@ -1,0 +1,40 @@
+<svg width="900" height="230" viewBox="0 0 900 230" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Vibhor Pandey — builder, researcher, founder">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="40%" r="70%">
+      <stop offset="0%" stop-color="#e3b341" stop-opacity="0.10"/>
+      <stop offset="45%" stop-color="#e3b341" stop-opacity="0.035"/>
+      <stop offset="100%" stop-color="#e3b341" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#e3b341" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#e3b341" stop-opacity="1"/>
+      <stop offset="1" stop-color="#e3b341" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="230" rx="10" fill="#0d1117"/>
+  <rect width="900" height="230" rx="10" fill="url(#glow)"/>
+  <rect x="0.5" y="0.5" width="899" height="229" rx="9.5" fill="none" stroke="#21262d"/>
+
+  <!-- drifting mathematics, kept quiet -->
+  <g font-family="Georgia, 'Times New Roman', serif" fill="#e3b341">
+    <text x="72" y="66" font-size="26" opacity="0.10">&#8706;<animate attributeName="opacity" values="0.06;0.16;0.06" dur="7s" repeatCount="indefinite"/></text>
+    <text x="150" y="170" font-size="20" opacity="0.08">&#955;<animate attributeName="opacity" values="0.05;0.13;0.05" dur="9s" begin="1s" repeatCount="indefinite"/></text>
+    <text x="238" y="52" font-size="17" opacity="0.09">&#931;<animate attributeName="opacity" values="0.05;0.14;0.05" dur="8s" begin="2.2s" repeatCount="indefinite"/></text>
+    <text x="806" y="76" font-size="24" opacity="0.10">&#8711;<animate attributeName="opacity" values="0.06;0.15;0.06" dur="7.5s" begin="0.6s" repeatCount="indefinite"/></text>
+    <text x="740" y="178" font-size="19" opacity="0.08">&#8747;<animate attributeName="opacity" values="0.05;0.13;0.05" dur="8.5s" begin="1.8s" repeatCount="indefinite"/></text>
+    <text x="620" y="42" font-size="15" opacity="0.08">&#966;<animate attributeName="opacity" values="0.05;0.12;0.05" dur="9.5s" begin="3s" repeatCount="indefinite"/></text>
+    <text x="60" y="204" font-size="15" opacity="0.07">&#949;<animate attributeName="opacity" values="0.04;0.11;0.04" dur="10s" begin="2.6s" repeatCount="indefinite"/></text>
+    <text x="852" y="196" font-size="16" opacity="0.08">&#960;<animate attributeName="opacity" values="0.05;0.12;0.05" dur="8s" begin="4s" repeatCount="indefinite"/></text>
+    <text x="330" y="212" font-size="14" opacity="0.07">&#8776;<animate attributeName="opacity" values="0.04;0.10;0.04" dur="11s" begin="1.4s" repeatCount="indefinite"/></text>
+    <text x="560" y="206" font-size="15" opacity="0.07">&#916;<animate attributeName="opacity" values="0.04;0.11;0.04" dur="9s" begin="5s" repeatCount="indefinite"/></text>
+  </g>
+
+  <text x="450" y="106" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="50" letter-spacing="9" fill="#e6edf3" opacity="0">VIBHOR PANDEY<animate attributeName="opacity" from="0" to="1" dur="1.1s" begin="0.15s" fill="freeze"/></text>
+
+  <line x1="285" y1="132" x2="615" y2="132" stroke="url(#rule)" stroke-width="1.5" stroke-dasharray="330" stroke-dashoffset="330"><animate attributeName="stroke-dashoffset" from="330" to="0" dur="1.5s" begin="0.5s" fill="freeze"/></line>
+
+  <text x="450" y="166" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="14" letter-spacing="5" fill="#8b949e" opacity="0">BUILDER &#183; RESEARCHER &#183; FOUNDER<animate attributeName="opacity" from="0" to="1" dur="0.9s" begin="1.2s" fill="freeze"/></text>
+
+  <text x="450" y="194" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="13" fill="#6e7681" opacity="0">systems that verify what they say<animate attributeName="opacity" from="0" to="1" dur="1s" begin="1.8s" fill="freeze"/></text>
+</svg>
