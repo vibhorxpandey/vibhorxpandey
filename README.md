@@ -46,7 +46,7 @@ First principles over frameworks. Verification over vibes.
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-## Aurelius · the signature build
+## Aurelius · the signature build (still building)
 
 <div align="center">
 
