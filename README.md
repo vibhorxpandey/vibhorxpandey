@@ -39,7 +39,7 @@ First principles over frameworks. Verification over vibes.
 | thread | what it is | right now |
 |:--|:--|:--|
 | **[Veil Research](https://veilresearch.com)** | AI-native research infrastructure (the company) | hardening citation-enforced paper generation across five front-ends: web · CLI/SDK · MCP server · Skill · Claude Code plugin |
-| **[Veil Finance](https://veilfinance.ink)** | AI research terminal for Indian small/mid-cap equities | a portfolio-aware materiality classifier over SEBI LODR Reg-30 labels, built with LightGBM and Mondrian conformal prediction |
+| **[Veil Finance](https://veilfinance.ink)** | AI research terminal for Indian small mid cap equities | a portfolio-aware materiality classifier over SEBI LODR Reg-30 labels, built with LightGBM and Mondrian conformal prediction |
 | **[Aurelius](https://github.com/vibhorxpandey/Aurelius)** | fact-checked research MCP server | `v0.6.0` is live on PyPI. next: more verification backends and a deeper autonomous mode |
 
 <br>
