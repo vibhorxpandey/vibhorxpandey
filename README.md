@@ -243,7 +243,7 @@ Research tooling that treats verification as infrastructure instead of an aftert
 | | |
 |--:|:--|
 | **retrieval** | hybrid sparse + dense search: BM25 and BGE-M3 fused with Reciprocal Rank Fusion, cross-encoder reranking on top. Qdrant and pgvector in production, benchmarked with Recall@1 and MRR |
-| **llm systems** | RAG pipelines, agentic orchestration, MCP servers, LiteLLM gateways, self-hosted inference (Qwen 14B on vLLM), honeypot and prompt-injection detection, citation-integrity gating |
+| **llm systems** | RAG pipelines, agentic orchestration, MCP servers, LiteLLM gateways, self-hosted inference (Qwen 14B on vLLM)prompt-injection detection, citation-integrity gating |
 | **uncertainty** | Mondrian conformal prediction, Neyman-Pearson classification, uplift modeling, fairness auditing |
 | **classical ml** | gradient-boosted trees, SHAP explainability, NLP, neural nets |
 
