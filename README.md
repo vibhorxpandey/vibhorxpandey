@@ -80,7 +80,7 @@ pip install aurelius-mcp
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-## Veil · the company
+## Veil 
 
 Research tooling that treats verification as infrastructure instead of an afterthought.
 
